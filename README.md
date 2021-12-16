@@ -47,13 +47,19 @@ d=lambda s: "".join(set(s))
 
 
 # **Praktikum**
+
 pada tugas praktium saya diberi soal sebagai berikut
+
 ![img](gambar/soal2.PNG) 
+
 ## flowchart
-![i](gambar/flowchart.PNG)
+
+![img](gambar/flowchart.PNG)
 
 ## JAWAB
+
 pertama saya membuat looping agar program terus berjalan
+
 ```py
 while True:
     print('\ntambah\t(1)\nubah\t(2)\nhapus\t(3)\nlihat\t(4)\nkeluar\t(5) ')                                                                                     
@@ -93,25 +99,33 @@ else:
     print("\nMohon maaf input salah\n\nSilahkan pilih menu yang tersedia: ")                                                                                                            
 ```
 ## tampilan pada visual studio code
+
 ![img](gambar/sssyntax2.PNG)
 
 ## output
+
 ini adalah output apabila memilih tambah(1)
+
 ![img](gambar/ss1.PNG)
 
 ini adalah output apabila memilih ubah(2)
+
 ![img](gambar/ss2.PNG)
 
 ini adalah output apabila memilih untuk  tambah lagi
+
 ![img](gambar/ss3.PNG)
 
 ini adalah output apabila memilih hapus(3)
+
 ![img](gambar/ss4.PNG)
 
 ini adalah output apabila memilih lihat (4)
+
 ![img](gambar/ss5.PNG)
 
 ini adalah output apabila memilih keluar (5)
+
 ![img](gambar/ss6.PNG)
 
 
