@@ -54,7 +54,7 @@ pada tugas praktium saya diberi soal sebagai berikut
 
 ## flowchart
 
-![img](gambar/ssflowchart.PNG)
+![img](gambar/ssflowchart.png)
 
 ## JAWAB
 
